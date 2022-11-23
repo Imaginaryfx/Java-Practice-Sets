@@ -6,7 +6,7 @@ public class Practice_Paper_Vit_01 {
 
         Scanner sc = new Scanner(System.in);
 
-                                      //--- RUN 1 QUESTION AT A TIME ---//
+                                        //--- RUN 1 QUESTION AT A TIME ---//
 
 /*
    Q.01 - A student will not be allowed to sit in exam if his/her attendance is less than 75% Take following input from
